@@ -9,7 +9,10 @@ Wendy-Ying/Wendy-Ying is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ...
 - ⚡ Fun fact: ...
-![Github_States](https://github-readme-stats-rosy-kappa.vercel.app/api?username=Wendy-Ying&count_private=true&hide_border=true) 
+
 --->
+![Github_States](https://github-readme-stats-rosy-kappa.vercel.app/api?username=Wendy-Ying&count_private=true&hide_border=true&count_private=true&hide=prs,issues,contribs) 
 
 ![Top Langs](https://github-readme-stats-rosy-kappa.vercel.app/api/top-langs/?username=Wendy-Ying&layout=donut&hide_border=true&size_weight=0&count_weight=1)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wendy-Ying&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
