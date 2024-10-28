@@ -1,5 +1,4 @@
 ### Hi there 👋
-👋 I’m @Wendy-Ying
 
 🏫 I’m currently a junior student in [SUSTech](https://www.sustech.edu.cn/).
 
