@@ -26,11 +26,9 @@ You can click the Preview link to take a look at your changes.
   * EE205 [Signals and Systems](https://github.com/Wendy-Ying/Speech-Synthesis-And-Perception-With-Envelope-Cue)
   * EE317 [Advanced Electronic Science Experiment I](https://github.com/Wendy-Ying/Android-APP)
 * 2024 Spring
-  * EE202 Digital Circuits
   * EE206 [Communication Principles](https://github.com/Wendy-Ying/Communication-Principles-Lab)
   * EE208 [Engineering Electromagnetics](https://github.com/Wendy-Ying/Engineering-Electromagnetics-Report)
   * CS203B [Data Structures and Algorithm Analysis B](https://github.com/Wendy-Ying/DSAAB-Lab-and-Project)
-  * EE318 Advanced Electronic Science Experiment II
 * 2024 Fall
   * EE315 Data communications and networking
   * EE323 Digital Signal Processing
@@ -40,4 +38,9 @@ You can click the Preview link to take a look at your changes.
 
 tips: some project without link are private now, contact me if you want
 
-💝 Engineering Project:
+💝 Researching and Engineering Project:
+* Sign Language Translation System Based on Visual Approach
+* [Fast Positioning Indoor Vehicle with Visual Gimbal Based on UWB and ROS](https://github.com/Wendy-Ying/Fast-Positioning-Indoor-Vehicle-with-Visual-Gimbal-Based-on-UWB-and-ROS)
+* Fully Automated, Highly Compatible, Detection-Combat Investigated UAV
+* Precise 3D Reconstruction from Object Images
+* Universal Building Delivery Robot
