@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 
 tips: some projects without link are private now, please contact me if you want
 
-💝 Researching and Engineering Project:
+💝 Research and Engineering Project:
 * Sign Language Translation System Based on Visual Approach
 * [Fast Positioning Indoor Vehicle with Visual Gimbal Based on UWB and ROS](https://github.com/Wendy-Ying/Fast-Positioning-Indoor-Vehicle-with-Visual-Gimbal-Based-on-UWB-and-ROS)
 * Fully Automated, Highly Compatible, Detection-Combat Investigated UAV
