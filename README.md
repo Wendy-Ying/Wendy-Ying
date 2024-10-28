@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
   * EE351 Microprocessors and Microsystems: [lab](https://github.com/Wendy-Ying/Microprocessors-and-Microsystems-Lab), project
   * SDM274 AI and Machine Learning: [lab](https://github.com/Wendy-Ying/AI-and-Machine-Learning-Lab), project
 
-tips: some projects without link are private now, please contact me if you want
+Tips: Some projects without links are private now. Please contact me if you want.
 
 💝 Research and Engineering Project:
 * Sign Language Translation System Based on Visual Approach
