@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 🎁 Course Project:
 * 2023 Fall
   * EE201 [Analog Circuits](https://github.com/Wendy-Ying/Electronic-Ocarina)
-  * EE205 Signals and Systems: lab, [project](https://github.com/Wendy-Ying/Speech-Synthesis-And-Perception-With-Envelope-Cue)
+  * EE205 Signals and Systems: [lab](https://github.com/Wendy-Ying/Signals-and-Systems-Lab/tree/main), [project](https://github.com/Wendy-Ying/Speech-Synthesis-And-Perception-With-Envelope-Cue)
   * EE317 [Advanced Electronic Science Experiment I](https://github.com/Wendy-Ying/Android-APP)
 * 2024 Spring
   * EE206 [Communication Principles](https://github.com/Wendy-Ying/Communication-Principles-Lab)
