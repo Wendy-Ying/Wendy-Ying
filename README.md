@@ -32,8 +32,8 @@ You can click the Preview link to take a look at your changes.
 * 2024 Fall
   * EE315 Data communications and networking
   * EE323 Digital Signal Processing
-  * EE346 Mobile Robot Navigation and Control
-  * EE351 Microprocessors and Microsystems
+  * EE346 Mobile Robot Navigation and Control: [lab](https://github.com/Wendy-Ying/Mobile-Robot-Navigation-and-Control-Lab)
+  * EE351 Microprocessors and Microsystems: [lab](https://github.com/Wendy-Ying/Microprocessors-and-Microsystems-Lab)
   * SDM274 AI and Machine Learning: [lab](https://github.com/Wendy-Ying/AI-and-Machine-Learning-Lab)
 
 tips: some project without link are private now, contact me if you want
