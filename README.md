@@ -30,11 +30,11 @@ You can click the Preview link to take a look at your changes.
   * EE208 Engineering Electromagnetics: [lab](https://github.com/Wendy-Ying/Engineering-Electromagnetics-Lab)
   * CS203B Data Structures and Algorithm Analysis B: [lab](https://github.com/Wendy-Ying/Data-Structures-and-Algorithm-Analysis-B-Lab), [project](https://github.com/Wendy-Ying/Intelligent-Image-Scaling-System-Based-on-Seam-Carving-Algorithm)
 * 2024 Fall
-  * EE315 Data communications and networking
-  * EE323 Digital Signal Processing
-  * EE346 Mobile Robot Navigation and Control: [lab](https://github.com/Wendy-Ying/Mobile-Robot-Navigation-and-Control-Lab)
-  * EE351 Microprocessors and Microsystems: [lab](https://github.com/Wendy-Ying/Microprocessors-and-Microsystems-Lab)
-  * SDM274 AI and Machine Learning: [lab](https://github.com/Wendy-Ying/AI-and-Machine-Learning-Lab)
+  * EE315 Data communications and networking: lab
+  * EE323 Digital Signal Processing: [lab](https://github.com/Wendy-Ying/Digital-Signal-Processing-Lab), project
+  * EE346 Mobile Robot Navigation and Control: [lab](https://github.com/Wendy-Ying/Mobile-Robot-Navigation-and-Control-Lab), project
+  * EE351 Microprocessors and Microsystems: [lab](https://github.com/Wendy-Ying/Microprocessors-and-Microsystems-Lab), project
+  * SDM274 AI and Machine Learning: [lab](https://github.com/Wendy-Ying/AI-and-Machine-Learning-Lab), project
 
 tips: some project without link are private now, please contact me if you want
 
