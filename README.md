@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🏫 I’m currently a junior student in [SUSTech](https://www.sustech.edu.cn/).
+🏫 I’m currently a junior student in [RCV Lab](https://rcvlab.eee.sustech.edu.cn/) in [SUSTech](https://www.sustech.edu.cn/).
 
 ✨ Major in **Information Engineering** under the Department of Electronic and Electrical Engineering.
 
