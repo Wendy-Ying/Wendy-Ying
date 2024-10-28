@@ -22,18 +22,20 @@ You can click the Preview link to take a look at your changes.
 
 🎁 Course Project:
 * 2023 Fall
-  * EE201 Analog Circuits
-  * EE205 Signals and Systems
-  * EE317 Advanced Electronic Science Experiment I
+  * EE201 [Analog Circuits](https://github.com/Wendy-Ying/Electronic-Ocarina)
+  * EE205 [Signals and Systems](https://github.com/Wendy-Ying/Speech-Synthesis-And-Perception-With-Envelope-Cue)
+  * EE317 [Advanced Electronic Science Experiment I](https://github.com/Wendy-Ying/Android-APP)
 * 2024 Spring
   * EE202 Digital Circuits
-  * EE206 Communication Principles
-  * EE208 Engineering Electromagnetics
-  * CS203B Data Structures and Algorithm Analysis B
+  * EE206 [Communication Principles](https://github.com/Wendy-Ying/Communication-Principles-Lab)
+  * EE208 [Engineering Electromagnetics](https://github.com/Wendy-Ying/Engineering-Electromagnetics-Report)
+  * CS203B [Data Structures and Algorithm Analysis B](https://github.com/Wendy-Ying/DSAAB-Lab-and-Project)
   * EE318 Advanced Electronic Science Experiment II
 * 2024 Fall
   * EE315 Data communications and networking
   * EE323 Digital Signal Processing
   * EE346 Mobile Robot Navigation and Control
   * EE351 Microprocessors and Microsystems
-  * SDM274 AI and Machine Learning
+  * SDM274 [AI and Machine Learning](https://github.com/Wendy-Ying/AI-and-Machine-Learning-Lab)
+
+tips: some project without link are private now, contact me if you want
