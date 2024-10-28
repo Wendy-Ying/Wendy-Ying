@@ -27,8 +27,8 @@ You can click the Preview link to take a look at your changes.
   * EE317 Advanced Electronic Science Experiment I: [project](https://github.com/Wendy-Ying/Android-APP)
 * 2024 Spring
   * EE206 Communication Principles: [lab](https://github.com/Wendy-Ying/Communication-Principles-Lab)
-  * EE208 Engineering Electromagnetics: [lab](https://github.com/Wendy-Ying/Engineering-Electromagnetics-Report)
-  * CS203B Data Structures and Algorithm Analysis B: [lab](https://github.com/Wendy-Ying/Data-Structures-and-Algorithm-Analysis-B), [project](https://github.com/Wendy-Ying/Intelligent-Image-Scaling-System-Based-on-Seam-Carving-Algorithm)
+  * EE208 Engineering Electromagnetics: [lab](https://github.com/Wendy-Ying/Engineering-Electromagnetics-Lab)
+  * CS203B Data Structures and Algorithm Analysis B: [lab](https://github.com/Wendy-Ying/Data-Structures-and-Algorithm-Analysis-B-Lab), [project](https://github.com/Wendy-Ying/Intelligent-Image-Scaling-System-Based-on-Seam-Carving-Algorithm)
 * 2024 Fall
   * EE315 Data communications and networking
   * EE323 Digital Signal Processing
