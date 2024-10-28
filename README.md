@@ -39,3 +39,5 @@ You can click the Preview link to take a look at your changes.
   * SDM274 [AI and Machine Learning](https://github.com/Wendy-Ying/AI-and-Machine-Learning-Lab)
 
 tips: some project without link are private now, contact me if you want
+
+💝 Engineering Project:
