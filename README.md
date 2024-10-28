@@ -22,11 +22,11 @@ You can click the Preview link to take a look at your changes.
 
 🎁 Course Project:
 * 2023 Fall
-* * EE201 Analog Circuits
+  * EE201 Analog Circuits
   * EE205 Signals and Systems
   * EE317 Advanced Electronic Science Experiment I
 * 2024 Spring
-* * EE202 Digital Circuits
+  * EE202 Digital Circuits
   * EE206 Communication Principles
   * EE208 Engineering Electromagnetics
   * CS203B Data Structures and Algorithm Analysis B
