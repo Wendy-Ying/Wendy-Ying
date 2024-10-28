@@ -30,3 +30,10 @@ You can click the Preview link to take a look at your changes.
   * EE206 Communication Principles
   * EE208 Engineering Electromagnetics
   * CS203B Data Structures and Algorithm Analysis B
+  * EE318 Advanced Electronic Science Experiment II
+* 2024 Fall
+  * EE315 Data communications and networking
+  * EE323 Digital Signal Processing
+  * EE346 Mobile Robot Navigation and Control
+  * EE351 Microprocessors and Microsystems
+  * SDM274 AI and Machine Learning
