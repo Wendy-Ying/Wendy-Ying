@@ -21,6 +21,13 @@ You can click the Preview link to take a look at your changes.
 ![Github_States](https://github-readme-stats-rosy-kappa.vercel.app/api?username=Wendy-Ying&count_private=true&hide_border=true&count_private=true&hide=prs,issues,contribs) 
 ![Top Langs](https://github-readme-stats-rosy-kappa.vercel.app/api/top-langs/?username=Wendy-Ying&layout=compact&hide_border=true&size_weight=0&count_weight=1&langs_count=8&hide=Tex,HTML,Assembly)
 
+💝 Research and Engineering Project:
+* Sign Language Translation System Based on Visual Approach
+* [Fast Positioning Indoor Vehicle with Visual Gimbal Based on UWB and ROS](https://github.com/Wendy-Ying/Fast-Positioning-Indoor-Vehicle-with-Visual-Gimbal-Based-on-UWB-and-ROS)
+* Fully Automated, Highly Compatible, Detection-Combat Investigated UAV
+* Precise 3D Reconstruction from Object Images
+* Universal Building Delivery Robot
+
 🎁 Course Project:
 * 2023 Fall
   * EE201 Analog Circuits: [project](https://github.com/Wendy-Ying/Electronic-Ocarina)
@@ -38,10 +45,3 @@ You can click the Preview link to take a look at your changes.
   * SDM274 AI and Machine Learning: [lab](https://github.com/Wendy-Ying/AI-and-Machine-Learning-Lab), project
 
 Tips: Some projects without links are private now. Please contact me if you want.
-
-💝 Research and Engineering Project:
-* Sign Language Translation System Based on Visual Approach
-* [Fast Positioning Indoor Vehicle with Visual Gimbal Based on UWB and ROS](https://github.com/Wendy-Ying/Fast-Positioning-Indoor-Vehicle-with-Visual-Gimbal-Based-on-UWB-and-ROS)
-* Fully Automated, Highly Compatible, Detection-Combat Investigated UAV
-* Precise 3D Reconstruction from Object Images
-* Universal Building Delivery Robot
