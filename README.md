@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 * 2023 Fall
   * EE201 Analog Circuits: [project](https://github.com/Wendy-Ying/Electronic-Ocarina)
   * EE205 Signals and Systems: [lab](https://github.com/Wendy-Ying/Signals-and-Systems-Lab/tree/main), [project](https://github.com/Wendy-Ying/Speech-Synthesis-And-Perception-With-Envelope-Cue)
-  * EE317 Advanced Electronic Science Experiment I: [project](https://github.com/Wendy-Ying/Android-APP)
+  * EE317 Advanced Electronic Science Experiment I: [lab](https://github.com/Wendy-Ying/STM32-Learning), [project](https://github.com/Wendy-Ying/Android-APP)
 * 2024 Spring
   * EE206 Communication Principles: [lab](https://github.com/Wendy-Ying/Communication-Principles-Lab)
   * EE208 Engineering Electromagnetics: [lab](https://github.com/Wendy-Ying/Engineering-Electromagnetics-Lab)
