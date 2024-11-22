@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Github_States](https://github-readme-stats-rosy-kappa.vercel.app/api?username=Wendy-Ying&count_private=true&hide_border=true&count_private=true&hide=prs,issues,contribs) 
-![Top Langs](https://github-readme-stats-rosy-kappa.vercel.app/api/top-langs/?username=Wendy-Ying&layout=compact&hide_border=true&size_weight=0.1&count_weight=1.2&langs_count=10&hide=assembly)
+![Top Langs](https://github-readme-stats-rosy-kappa.vercel.app/api/top-langs/?username=Wendy-Ying&layout=compact&hide_border=true&size_weight=0.1&count_weight=1.2&langs_count=10&hide=assembly,tex)
 
 💝 Research and Engineering Project:
 * Sign Language Translation System Based on Visual Approach
@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
   * CS203B Data Structures and Algorithm Analysis B: [lab](https://github.com/Wendy-Ying/Data-Structures-and-Algorithm-Analysis-B-Lab), [project](https://github.com/Wendy-Ying/Intelligent-Image-Scaling-System-Based-on-Seam-Carving-Algorithm)
 * 2024 Fall
   * EE315 Data communications and networking: lab
-  * EE323 Digital Signal Processing: [lab](https://github.com/Wendy-Ying/Digital-Signal-Processing-Lab), project
+  * EE323 Digital Signal Processing: [lab](https://github.com/Wendy-Ying/Digital-Signal-Processing-Lab), [project](https://github.com/Wendy-Ying/Computer-Generate-Music)
   * EE346 Mobile Robot Navigation and Control: [lab](https://github.com/Wendy-Ying/Mobile-Robot-Navigation-and-Control-Lab), project
   * EE351 Microprocessors and Microsystems: [lab](https://github.com/Wendy-Ying/Microprocessors-and-Microsystems-Lab), [project1](https://github.com/Wendy-Ying/Microprocessors-and-Microsystems-Midterm-Project), project2
   * SDM274 AI and Machine Learning: [lab](https://github.com/Wendy-Ying/AI-and-Machine-Learning-Lab), [project](https://github.com/Wendy-Ying/AI4I-Binary-Classification-Prediction)
