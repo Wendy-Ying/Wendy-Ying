@@ -42,6 +42,6 @@ You can click the Preview link to take a look at your changes.
   * EE323 Digital Signal Processing: [lab](https://github.com/Wendy-Ying/Digital-Signal-Processing-Lab), project
   * EE346 Mobile Robot Navigation and Control: [lab](https://github.com/Wendy-Ying/Mobile-Robot-Navigation-and-Control-Lab), project
   * EE351 Microprocessors and Microsystems: [lab](https://github.com/Wendy-Ying/Microprocessors-and-Microsystems-Lab), [project1](https://github.com/Wendy-Ying/Microprocessors-and-Microsystems-Midterm-Project), project2
-  * SDM274 AI and Machine Learning: [lab](https://github.com/Wendy-Ying/AI-and-Machine-Learning-Lab), project
+  * SDM274 AI and Machine Learning: [lab](https://github.com/Wendy-Ying/AI-and-Machine-Learning-Lab), [project](https://github.com/Wendy-Ying/AI4I-Binary-Classification-Prediction)
 
 Tips: Some projects without links are private now. Please contact me if you want.
