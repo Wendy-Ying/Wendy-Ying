@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
   * EE208 Engineering Electromagnetics: [lab](https://github.com/Wendy-Ying/Engineering-Electromagnetics-Lab)
   * CS203B Data Structures and Algorithm Analysis B: [lab](https://github.com/Wendy-Ying/Data-Structures-and-Algorithm-Analysis-B-Lab), [project](https://github.com/Wendy-Ying/Intelligent-Image-Scaling-System-Based-on-Seam-Carving-Algorithm)
 * 2024 Fall
-  * EE315 Data communications and networking: [lab](https://github.com/Wendy-Ying/Data-Communications-and-Networking-Lab)
+  * EE315 Data communications and networking: [lab](https://github.com/Wendy-Ying/Data-Communications-and-Networking-Lab), project
   * EE323 Digital Signal Processing: [lab](https://github.com/Wendy-Ying/Digital-Signal-Processing-Lab), [project](https://github.com/Wendy-Ying/Computer-Generate-Music)
   * EE346 Mobile Robot Navigation and Control: [lab](https://github.com/Wendy-Ying/Mobile-Robot-Navigation-and-Control-Lab)
   * EE351 Microprocessors and Microsystems: [lab](https://github.com/Wendy-Ying/Microprocessors-and-Microsystems-Lab), [project1](https://github.com/Wendy-Ying/Microprocessors-and-Microsystems-Midterm-Project), project2
