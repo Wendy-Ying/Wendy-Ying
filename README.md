@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Github_States](https://github-readme-stats-rosy-kappa.vercel.app/api?username=Wendy-Ying&count_private=true&hide_border=true&count_private=true) 
-![Top Langs](https://github-readme-stats-rosy-kappa.vercel.app/api/top-langs/?username=Wendy-Ying&layout=compact&hide_border=true&size_weight=0.1&count_weight=0.8&langs_count=10&hide=assembly,tex)
+![Top Langs](https://github-readme-stats-rosy-kappa.vercel.app/api/top-langs/?username=Wendy-Ying&layout=compact&hide_border=true&size_weight=0.15&count_weight=1&langs_count=10&hide=assembly,tex)
 
 💝 Research and Engineering Project:
 * [Sign Language Translation System Based on Visual Approach](https://github.com/Wendy-Ying/Sign-Language-Translation-System-Based-on-Visual-Approach)
@@ -42,6 +42,6 @@ You can click the Preview link to take a look at your changes.
   * EE323 Digital Signal Processing: [lab](https://github.com/Wendy-Ying/Digital-Signal-Processing-Lab), [project](https://github.com/Wendy-Ying/Computer-Generate-Music)
   * EE346 Mobile Robot Navigation and Control: [lab](https://github.com/Wendy-Ying/Mobile-Robot-Navigation-and-Control-Lab)
   * EE351 Microprocessors and Microsystems: [lab](https://github.com/Wendy-Ying/Microprocessors-and-Microsystems-Lab), [project1](https://github.com/Wendy-Ying/Microprocessors-and-Microsystems-Midterm-Project), project2
-  * SDM274 AI and Machine Learning: [lab](https://github.com/Wendy-Ying/AI-and-Machine-Learning-Lab), [project](https://github.com/Wendy-Ying/AI4I-Binary-Classification-Prediction)
+  * SDM274 AI and Machine Learning: [lab](https://github.com/Wendy-Ying/AI-and-Machine-Learning-Lab), [project1](https://github.com/Wendy-Ying/AI4I-Binary-Classification-Prediction), project2
 
 Tips: Some projects without links are private now. Please contact me if you want.
