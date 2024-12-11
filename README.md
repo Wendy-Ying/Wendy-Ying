@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 💝 Research and Engineering Project:
 * [Sign Language Translation System Based on Visual Approach](https://github.com/Wendy-Ying/Sign-Language-Translation-System-Based-on-Visual-Approach)
 * [Fast Positioning Indoor Vehicle with Visual Gimbal Based on UWB and ROS](https://github.com/Wendy-Ying/Fast-Positioning-Indoor-Vehicle-with-Visual-Gimbal-Based-on-UWB-and-ROS)
-* Fully Automated, Highly Compatible, Detection-Combat Investigated UAV
+* [Fully Automated, Highly Compatible, Detection-Combat Investigated UAV](https://github.com/Wendy-Ying/Fully-Automated-Highly-Compatible-Detection-Combat-Investigated-UAV)
 * Precise 3D Reconstruction from Object Images
 * Universal Building Delivery Robot
 
