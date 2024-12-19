@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Github_States](https://github-readme-stats-rosy-kappa.vercel.app/api?username=Wendy-Ying&hide_border=true) 
-![Top Langs](https://github-readme-stats-rosy-kappa.vercel.app/api/top-langs/?username=Wendy-Ying&layout=compact&hide_border=true&size_weight=0.15&count_weight=1&langs_count=8&hide=assembly,tex,makefile,html)
+![Top Langs](https://github-readme-stats-rosy-kappa.vercel.app/api/top-langs/?username=Wendy-Ying&layout=compact&hide_border=true&size_weight=0.1&count_weight=0.9&langs_count=10&hide=assembly,tex,makefile,html)
 
 💝 Research and Engineering Project:
 * [Sign Language Translation System Based on Visual Approach](https://github.com/Wendy-Ying/Sign-Language-Translation-System-Based-on-Visual-Approach)
