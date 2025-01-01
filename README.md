@@ -6,7 +6,7 @@
 
 👀 My current research interests are SLAM and CV.
 
-📫 Reach me: School email: 12210159@mail.sustech.edu.cn
+📫 Reach me: 12210159@mail.sustech.edu.cn
   
 <!---
 Wendy-Ying/Wendy-Ying is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
