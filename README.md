@@ -4,7 +4,7 @@
 
 ✨ Major in **Information Engineering** under the Department of Electronic and Electrical Engineering.
 
-👀 My current research interests are SLAM and CV.
+👀 My current research interests are SLAM, CV, and AI, especially Active SLAM.
 
 📫 Reach me: 12210159@mail.sustech.edu.cn
   
