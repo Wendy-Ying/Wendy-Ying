@@ -4,7 +4,7 @@
 
 ✨ Major in **Information Engineering** under the Department of Electronic and Electrical Engineering.
 
-👀 My current research interests are SLAM, CV, and AI, especially Active SLAM.
+👀 My current research interests are SLAM, AI, planning and CV.
 
 📫 Reach me: 12210159@mail.sustech.edu.cn
   
@@ -42,7 +42,5 @@ You can click the Preview link to take a look at your changes.
   * EE351 Microprocessors and Microsystems: [lab](https://github.com/Wendy-Ying/Microprocessors-and-Microsystems-Lab), [project1](https://github.com/Wendy-Ying/Microprocessors-and-Microsystems-Midterm-Project), [project2](https://github.com/Wendy-Ying/PokeSnap)
   * SDM274 AI and Machine Learning: [lab](https://github.com/Wendy-Ying/AI-and-Machine-Learning-Lab), [project1](https://github.com/Wendy-Ying/AI4I-Binary-Classification-Prediction), [project2](https://github.com/Wendy-Ying/Wheet-Seed-Classification-Prediction)
 
-Tips: Some projects without links are private now. Please contact me if you want.
-
 😄 Course Notes:
-Many well organized notes [here](https://github.com/Wendy-Ying/Lecture-Notes), hope you can believe me cause my high grade.
+Many well organized notes [here](https://github.com/Wendy-Ying/Lecture-Notes).
