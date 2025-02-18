@@ -23,14 +23,12 @@ You can click the Preview link to take a look at your changes.
 * [Sign Language Translation System Based on Visual Approach](https://github.com/Wendy-Ying/Sign-Language-Translation-System-Based-on-Visual-Approach)
 * [Fast Positioning Indoor Vehicle with Visual Gimbal Based on UWB and ROS](https://github.com/Wendy-Ying/Fast-Positioning-Indoor-Vehicle-with-Visual-Gimbal-Based-on-UWB-and-ROS)
 * [Fully Automated, Highly Compatible, Detection-Combat Investigated UAV](https://github.com/Wendy-Ying/Fully-Automated-Highly-Compatible-Detection-Combat-Investigated-UAV)
-* Precise 3D Reconstruction from Object Images
-* Universal Building Delivery Robot
 
 🎁 Course Project:
 * 2023 Fall
   * EE201 Analog Circuits: [project](https://github.com/Wendy-Ying/Electronic-Ocarina)
   * EE205 Signals and Systems: [lab](https://github.com/Wendy-Ying/Signals-and-Systems-Lab/tree/main), [project](https://github.com/Wendy-Ying/Speech-Synthesis-And-Perception-With-Envelope-Cue)
-  * EE317 Advanced Electronic Science Experiment I: [lab](https://github.com/Wendy-Ying/STM32-Learning), [project](https://github.com/Wendy-Ying/Android-APP)
+  * EE317 Advanced Electronic Science Experiment: [lab](https://github.com/Wendy-Ying/STM32-Learning), [project](https://github.com/Wendy-Ying/Android-APP)
 * 2024 Spring
   * EE206 Communication Principles: [lab](https://github.com/Wendy-Ying/Communication-Principles-Lab)
   * EE208 Engineering Electromagnetics: [lab](https://github.com/Wendy-Ying/Engineering-Electromagnetics-Lab)
@@ -41,6 +39,10 @@ You can click the Preview link to take a look at your changes.
   * EE346 Mobile Robot Navigation and Control: [lab](https://github.com/Wendy-Ying/Mobile-Robot-Navigation-and-Control-Lab)
   * EE351 Microprocessors and Microsystems: [lab](https://github.com/Wendy-Ying/Microprocessors-and-Microsystems-Lab), [project1](https://github.com/Wendy-Ying/Microprocessors-and-Microsystems-Midterm-Project), [project2](https://github.com/Wendy-Ying/PokeSnap)
   * SDM274 AI and Machine Learning: [lab](https://github.com/Wendy-Ying/AI-and-Machine-Learning-Lab), [project1](https://github.com/Wendy-Ying/AI4I-Binary-Classification-Prediction), [project2](https://github.com/Wendy-Ying/Wheet-Seed-Classification-Prediction)
+* 2025 Spring
+  * EE332 Digital System Design: lab, project
+  * EE340 Statistical Learning for Data Science: lab
+  * EE368 Robotic and Motion Control: lab, project
 
 😄 Course Notes:
 Many well organized notes [here](https://github.com/Wendy-Ying/Lecture-Notes).
