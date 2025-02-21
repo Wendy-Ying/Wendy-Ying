@@ -41,7 +41,6 @@ You can click the Preview link to take a look at your changes.
   * SDM274 AI and Machine Learning: [lab](https://github.com/Wendy-Ying/AI-and-Machine-Learning-Lab), [project1](https://github.com/Wendy-Ying/AI4I-Binary-Classification-Prediction), [project2](https://github.com/Wendy-Ying/Wheet-Seed-Classification-Prediction)
 * 2025 Spring
   * EE332 Digital System Design: lab, project
-  * EE340 Statistical Learning for Data Science: lab
   * EE368 Robotic and Motion Control: lab, project
 
 😄 Course Notes:
