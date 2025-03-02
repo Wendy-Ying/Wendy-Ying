@@ -40,7 +40,8 @@ You can click the Preview link to take a look at your changes.
   * EE351 Microprocessors and Microsystems: [lab](https://github.com/Wendy-Ying/Microprocessors-and-Microsystems-Lab), [project1](https://github.com/Wendy-Ying/Microprocessors-and-Microsystems-Midterm-Project), [project2](https://github.com/Wendy-Ying/PokeSnap)
   * SDM274 AI and Machine Learning: [lab](https://github.com/Wendy-Ying/AI-and-Machine-Learning-Lab), [project1](https://github.com/Wendy-Ying/AI4I-Binary-Classification-Prediction), [project2](https://github.com/Wendy-Ying/Wheet-Seed-Classification-Prediction)
 * 2025 Spring
-  * EE332 Digital System Design: lab, project
+  * EE332 Digital System Design: [lab](https://github.com/Wendy-Ying/Digital-System-Design-Lab), project
+  * EE348 Modern sensing technology: pre
   * EE368 Robotic and Motion Control: lab, project
 
 😄 Course Notes:
