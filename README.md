@@ -6,7 +6,7 @@
 
 👀 My current research interests are SLAM, AI, planning and CV.
 
-📫 Reach me: 12210159@mail.sustech.edu.cn
+📫 Reach me: yingyw2022@mail.sustech.edu.cn
   
 <!---
 Wendy-Ying/Wendy-Ying is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,8 +41,8 @@ You can click the Preview link to take a look at your changes.
   * SDM274 AI and Machine Learning: [lab](https://github.com/Wendy-Ying/AI-and-Machine-Learning-Lab), [project1](https://github.com/Wendy-Ying/AI4I-Binary-Classification-Prediction), [project2](https://github.com/Wendy-Ying/Wheet-Seed-Classification-Prediction)
 * 2025 Spring
   * EE332 Digital System Design: [lab](https://github.com/Wendy-Ying/Digital-System-Design-Lab), project
-  * EE348 Modern sensing technology: pre
-  * EE368 Robotic and Motion Control: lab, project
+  * EE348 Modern Sensing Technology: [pre](https://github.com/Wendy-Ying/Modern-Sensing-Technology)
+  * EE368 Robotic and Motion Control: [lab](https://github.com/Wendy-Ying/Robotic-Motion-and-Control), project
 
 😄 Course Notes:
 Many well organized notes [here](https://github.com/Wendy-Ying/Lecture-Notes).
