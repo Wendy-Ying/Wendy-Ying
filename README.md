@@ -7,6 +7,8 @@
 👀 My current research interests are AI and planning.
 
 📫 Reach me: yingyw2022@mail.sustech.edu.cn
+
+⚡ Personal Page: [Wendy-Ying](Wendy-Ying.github.io)
   
 <!---
 Wendy-Ying/Wendy-Ying is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
