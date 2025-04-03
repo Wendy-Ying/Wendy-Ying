@@ -9,7 +9,9 @@
 📫 Reach me: yingyw2022@mail.sustech.edu.cn
 
 ⚡ Personal Page: [Wendy-Ying](https://Wendy-Ying.github.io)
-  
+
+🚀 Google Scholar: [Yiwen Ying](https://scholar.google.com/citations?user=amrm3eEAAAAJ)
+
 <!---
 Wendy-Ying/Wendy-Ying is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -19,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Github_States](https://github-readme-stats-rosy-kappa.vercel.app/api?username=Wendy-Ying&hide_border=true) 
-![Top Langs](https://github-readme-stats-rosy-kappa.vercel.app/api/top-langs/?username=Wendy-Ying&layout=compact&hide_border=true&size_weight=0.03&count_weight=0.9&langs_count=8&hide=assembly,makefile,cmake,tcl,html,tex)
+![Top Langs](https://github-readme-stats-rosy-kappa.vercel.app/api/top-langs/?username=Wendy-Ying&layout=compact&hide_border=true&size_weight=0.08&count_weight=0.9&langs_count=8&hide=assembly,makefile,cmake,tcl,html,tex)
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,matlab,vscode,visualstudio,anaconda,vim,cmake,androidstudio,arduino,raspberrypi,opencv,sklearn,pytorch,tensorflow,ros,bash,github,linux,windows,md,latex,ps,pr,ae)](https://skillicons.dev)
 
