@@ -4,7 +4,7 @@
 
 ✨ Major in **Information Engineering** under [the Department of Electronic and Electrical Engineering](https://eee.sustech.edu.cn/).
 
-👀 My current research interests are AI and planning.
+👀 My current research interest is learning-based robot planning.
 
 📫 Reach me: yingyw2022@mail.sustech.edu.cn
 
@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Github_States](https://github-readme-stats-rosy-kappa.vercel.app/api?username=Wendy-Ying&hide_border=true) 
-![Top Langs](https://github-readme-stats-rosy-kappa.vercel.app/api/top-langs/?username=Wendy-Ying&layout=compact&hide_border=true&size_weight=0.08&count_weight=0.9&langs_count=8&hide=assembly,makefile,cmake,tcl,html,tex)
+![Top Langs](https://github-readme-stats-rosy-kappa.vercel.app/api/top-langs/?username=Wendy-Ying&layout=compact&hide_border=true&size_weight=0.2&count_weight=0.9&langs_count=8&hide=assembly,makefile,cmake,tcl,html,tex,javascript)
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,matlab,vscode,visualstudio,anaconda,vim,cmake,androidstudio,arduino,raspberrypi,opencv,sklearn,pytorch,tensorflow,ros,bash,github,linux,windows,md,latex,ps,pr,ae)](https://skillicons.dev)
 
@@ -47,9 +47,9 @@ You can click the Preview link to take a look at your changes.
   * EE351 Microprocessors and Microsystems: [lab](https://github.com/Wendy-Ying/Microprocessors-and-Microsystems-Lab), [project1](https://github.com/Wendy-Ying/Microprocessors-and-Microsystems-Midterm-Project), [project2](https://github.com/Wendy-Ying/PokeSnap)
   * SDM274 AI and Machine Learning: [lab](https://github.com/Wendy-Ying/AI-and-Machine-Learning-Lab), [project1](https://github.com/Wendy-Ying/AI4I-Binary-Classification-Prediction), [project2](https://github.com/Wendy-Ying/Wheet-Seed-Classification-Prediction)
 * 2025 Spring
-  * EE332 Digital System Design: [lab](https://github.com/Wendy-Ying/Digital-System-Design-Lab), project
+  * EE332 Digital System Design: [lab](https://github.com/Wendy-Ying/Digital-System-Design-Lab), [project](https://github.com/Wendy-Ying/Smart-Combination-Lock)
   * EE348 Modern Sensing Technology: [pre](https://github.com/Wendy-Ying/Modern-Sensing-Technology)
-  * EE368 Robotic and Motion Control: [lab](https://github.com/Wendy-Ying/Robotic-Motion-and-Control), project
+  * EE368 Robotic and Motion Control: [lab](https://github.com/Wendy-Ying/Robotic-Motion-and-Control), [project](https://github.com/Wendy-Ying/rrt_planner)
 
 😄 Course Notes:
 Many well organized notes [here](https://github.com/Wendy-Ying/Lecture-Notes).
