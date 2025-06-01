@@ -21,12 +21,13 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Github_States](https://github-readme-stats-rosy-kappa.vercel.app/api?username=Wendy-Ying&hide_border=true) 
-![Top Langs](https://github-readme-stats-rosy-kappa.vercel.app/api/top-langs/?username=Wendy-Ying&layout=compact&hide_border=true&size_weight=0.2&count_weight=0.9&langs_count=8&hide=assembly,makefile,cmake,tcl,html,tex,javascript)
+![Top Langs](https://github-readme-stats-rosy-kappa.vercel.app/api/top-langs/?username=Wendy-Ying&layout=compact&hide_border=true&size_weight=0.15&count_weight=0.8&langs_count=8&hide=assembly,makefile,cmake,tcl,html,tex,javascript)
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,matlab,vscode,visualstudio,anaconda,vim,cmake,androidstudio,arduino,raspberrypi,opencv,sklearn,pytorch,tensorflow,ros,bash,github,linux,windows,md,latex,ps,pr,ae)](https://skillicons.dev)
 
 
 💝 **Research and Engineering Project**:
+* [Universal Building Delivery Robot](https://github.com/Wendy-Ying/neupan_ros)
 * [Sign Language Translation System Based on Visual Approach](https://github.com/Wendy-Ying/Sign-Language-Translation-System-Based-on-Visual-Approach)
 * [Fast Positioning Indoor Vehicle with Visual Gimbal Based on UWB and ROS](https://github.com/Wendy-Ying/Fast-Positioning-Indoor-Vehicle-with-Visual-Gimbal-Based-on-UWB-and-ROS)
 * [Fully Automated, Highly Compatible, Detection-Combat Investigated UAV](https://github.com/Wendy-Ying/Fully-Automated-Highly-Compatible-Detection-Combat-Investigated-UAV)
