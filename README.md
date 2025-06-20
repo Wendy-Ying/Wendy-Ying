@@ -4,7 +4,7 @@
 
 ✨ Major in **Information Engineering** under [the Department of Electronic and Electrical Engineering](https://eee.sustech.edu.cn/).
 
-👀 My current research interest is learning-based robot planning.
+👀 My current research interest is learning-based robot trajectory planning.
 
 📫 Reach me: yingyw2022@mail.sustech.edu.cn
 
