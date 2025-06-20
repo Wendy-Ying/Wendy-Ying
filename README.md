@@ -11,7 +11,6 @@
 ⚡ Personal Page: [Wendy-Ying](https://Wendy-Ying.github.io)
 
 🚀 Google Scholar: [Yiwen Ying](https://scholar.google.com/citations?user=amrm3eEAAAAJ)
-
 <!---
 Wendy-Ying/Wendy-Ying is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -26,13 +25,13 @@ You can click the Preview link to take a look at your changes.
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,matlab,vscode,visualstudio,anaconda,vim,cmake,androidstudio,arduino,raspberrypi,opencv,sklearn,pytorch,tensorflow,ros,bash,github,linux,windows,md,latex,ps,pr,ae)](https://skillicons.dev)
 
 
-💝 **Research and Engineering Project**:
-* [Universal Building Delivery Robot](https://github.com/Wendy-Ying/neupan_ros)
+
+💝 **Open Source Research and Engineering Project**:
 * [Sign Language Translation System Based on Visual Approach](https://github.com/Wendy-Ying/Sign-Language-Translation-System-Based-on-Visual-Approach)
 * [Fast Positioning Indoor Vehicle with Visual Gimbal Based on UWB and ROS](https://github.com/Wendy-Ying/Fast-Positioning-Indoor-Vehicle-with-Visual-Gimbal-Based-on-UWB-and-ROS)
 * [Fully Automated, Highly Compatible, Detection-Combat Investigated UAV](https://github.com/Wendy-Ying/Fully-Automated-Highly-Compatible-Detection-Combat-Investigated-UAV)
 
-🎁 **Course Project**:
+🎁 **Open Source Course Project**:
 * 2023 Fall
   * EE201 Analog Circuits: [project](https://github.com/Wendy-Ying/Electronic-Ocarina)
   * EE205 Signals and Systems: [lab](https://github.com/Wendy-Ying/Signals-and-Systems-Lab), [project](https://github.com/Wendy-Ying/Speech-Synthesis-And-Perception-With-Envelope-Cue)
