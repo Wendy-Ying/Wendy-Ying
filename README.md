@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🏫 I’m currently a junior student in [SUSTech](https://www.sustech.edu.cn/), [RCVLab](https://rcvlab.eee.sustech.edu.cn/).
+🏫 I’m currently a senior student in [SUSTech](https://www.sustech.edu.cn/), [RCVLab](https://rcvlab.eee.sustech.edu.cn/).
 
 ✨ Major in **Information Engineering** under [the Department of Electronic and Electrical Engineering](https://eee.sustech.edu.cn/).
 
-👀 My current research interest is learning-based robot trajectory planning.
+👀 My current research interest is learning-based robot motion planning.
 
 📫 Reach me: yingyw2022@mail.sustech.edu.cn
 
@@ -50,6 +50,9 @@ You can click the Preview link to take a look at your changes.
   * EE332 Digital System Design: [lab](https://github.com/Wendy-Ying/Digital-System-Design-Lab), [project](https://github.com/Wendy-Ying/Smart-Combination-Lock)
   * EE348 Modern Sensing Technology: [pre](https://github.com/Wendy-Ying/Modern-Sensing-Technology)
   * EE368 Robotic and Motion Control: [lab](https://github.com/Wendy-Ying/Robotic-Motion-and-Control), [project](https://github.com/Wendy-Ying/rrt_planner)
+* 2025 Fall
+  * EE211 Robotic Perception and Intelligence: project
+  * CS303 Artificial Intelligence: lab, project1, project2
 
 😄 Course Notes:
 Many well organized notes [here](https://github.com/Wendy-Ying/Lecture-Notes).
