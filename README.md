@@ -6,7 +6,7 @@
 
 👀 My current research interest is learning-based robot motion planning.
 
-📫 Reach me: yingyw2022@mail.sustech.edu.cn
+📫 Reach me: yingyw2022@mail.sustech.edu.cn, wendyyingyw@gmail.com
 
 ⚡ Personal Page: [Wendy-Ying](https://Wendy-Ying.github.io)
 
