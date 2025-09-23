@@ -4,7 +4,7 @@
 
 ✨ Major in **Information Engineering** under [the Department of Electronic and Electrical Engineering](https://eee.sustech.edu.cn/).
 
-👀 My current research interest is learning-based robot motion planning.
+👀 My current research interest is learning-based motion planning.
 
 📫 Reach me: yingyw2022@mail.sustech.edu.cn, wendyyingyw@gmail.com
 
@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
   * EE348 Modern Sensing Technology: [pre](https://github.com/Wendy-Ying/Modern-Sensing-Technology)
   * EE368 Robotic and Motion Control: [lab](https://github.com/Wendy-Ying/Robotic-Motion-and-Control), [project](https://github.com/Wendy-Ying/rrt_planner)
 * 2025 Fall
-  * EE211 Robotic Perception and Intelligence: project
+  * EE211 Robotic Perception and Intelligence: [lab](https://github.com/Wendy-Ying/Robotic-Perception-and-Intelligence), project
   * CS303 Artificial Intelligence: lab, project1, project2
 
 😄 Course Notes:
