@@ -6,7 +6,7 @@
 
 👀 My current research interest is learning-based motion planning.
 
-📫 Reach me: yingyw2022@mail.sustech.edu.cn, wendyyingyw@gmail.com
+📫 Reach me: yingyw2022@mail.sustech.edu.cn
 
 ⚡ Personal Page: [Wendy-Ying](https://Wendy-Ying.github.io)
 
@@ -25,17 +25,17 @@ You can click the Preview link to take a look at your changes.
 
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,matlab,vscode,visualstudio,anaconda,vim,cmake,androidstudio,arduino,raspberrypi,opencv,sklearn,pytorch,tensorflow,ros,bash,github,linux,windows,md,latex,ps,pr,ae)
 
-💝 **Open Source Research and Engineering Project**:
-* [Sign Language Translation System Based on Visual Approach](https://github.com/Wendy-Ying/Sign-Language-Translation-System-Based-on-Visual-Approach)
-* [Fast Positioning Indoor Vehicle with Visual Gimbal Based on UWB and ROS](https://github.com/Wendy-Ying/Fast-Positioning-Indoor-Vehicle-with-Visual-Gimbal-Based-on-UWB-and-ROS)
-* [Fully Automated, Highly Compatible, Detection-Combat Investigated UAV](https://github.com/Wendy-Ying/Fully-Automated-Highly-Compatible-Detection-Combat-Investigated-UAV)
+💝 **Research and Engineering Project**:
+* [Sign Language Translation System](https://github.com/Wendy-Ying/Sign-Language-Translation-System-Based-on-Visual-Approach)
+* [Fully Automated Robot Cooperation System](https://github.com/Wendy-Ying/Fully-Automated-Highly-Compatible-Detection-Combat-Investigated-UAV)
 
-🎁 **Open Source Course Project**:
+🎁 **Course Project**:
 * 2023 Fall
-  * EE201 Analog Circuits: [project](https://github.com/Wendy-Ying/Electronic-Ocarina)
+  * EE201 Analog Circuits: [lab](https://github.com/Wendy-Ying/Analog-Circuits-Laboratory), [project](https://github.com/Wendy-Ying/Electronic-Ocarina)
   * EE205 Signals and Systems: [lab](https://github.com/Wendy-Ying/Signals-and-Systems-Lab), [project](https://github.com/Wendy-Ying/Speech-Synthesis-And-Perception-With-Envelope-Cue)
   * EE317 Advanced Electronic Science Experiment: [lab](https://github.com/Wendy-Ying/STM32-Learning), [project](https://github.com/Wendy-Ying/Android-APP)
 * 2024 Spring
+  * EE202 Digital Circuits: [lab](https://github.com/Wendy-Ying/Digital-Circuits-Laboratory), [project](https://github.com/Wendy-Ying/Fast-Positioning-Indoor-Vehicle-with-Visual-Gimbal-Based-on-UWB-and-ROS)
   * EE206 Communication Principles: [lab](https://github.com/Wendy-Ying/Communication-Principles-Lab)
   * EE208 Engineering Electromagnetics: [lab](https://github.com/Wendy-Ying/Engineering-Electromagnetics-Lab)
   * CS203B Data Structures and Algorithm Analysis B: [lab](https://github.com/Wendy-Ying/Data-Structures-and-Algorithm-Analysis-B-Lab), [project](https://github.com/Wendy-Ying/Intelligent-Image-Scaling-System-Based-on-Seam-Carving-Algorithm)
