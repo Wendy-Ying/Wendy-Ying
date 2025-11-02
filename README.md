@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
   * EE368 Robotic and Motion Control: [lab](https://github.com/Wendy-Ying/Robotic-Motion-and-Control), [project](https://github.com/Wendy-Ying/rrt_planner)
 * 2025 Fall
   * EE211 Robotic Perception and Intelligence: [lab](https://github.com/Wendy-Ying/Robotic-Perception-and-Intelligence), project
-  * CS303 Artificial Intelligence: [lab](https://github.com/Wendy-Ying/Artifical-Intelligence), project1, project2
+  * CS303 Artificial Intelligence: [lab](https://github.com/Wendy-Ying/Artifical-Intelligence), [project1](https://github.com/Wendy-Ying/Reversed-Reversi), project2
 
 😄 Course Notes:
 Many well organized notes [here](https://github.com/Wendy-Ying/Lecture-Notes).
