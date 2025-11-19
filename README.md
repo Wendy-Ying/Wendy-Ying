@@ -11,23 +11,24 @@
 ⚡ Personal Page: [Wendy-Ying](https://Wendy-Ying.github.io)
 
 🚀 Google Scholar: [Yiwen Ying](https://scholar.google.com/citations?user=amrm3eEAAAAJ)
+
 <!---
-Wendy-Ying/Wendy-Ying is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 💞️ I’m looking to collaborate on ...
-- ⚡ Fun fact: ...
-- 😄 Pronouns: she/her
+- ✨
+- 💞️
+- ⚡
+- 😄
+- 💝
 --->
 
 ![Github_States](https://github-readme-stats-rosy-kappa.vercel.app/api?username=Wendy-Ying&hide_border=true) 
-![Top Langs](https://github-readme-stats-rosy-kappa.vercel.app/api/top-langs/?username=Wendy-Ying&layout=compact&hide_border=true&size_weight=0.15&count_weight=0.8&langs_count=8&hide=assembly,makefile,cmake,tcl,html,tex,javascript)
+![Top Langs](https://github-readme-stats-rosy-kappa.vercel.app/api/top-langs/?username=Wendy-Ying&layout=compact&hide_border=true&size_weight=0.1&count_weight=1&langs_count=10&hide=assembly,makefile,cmake,html,tcl)
 ![commits](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wendy-ying&theme=github)
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,matlab,vscode,visualstudio,anaconda,vim,cmake,androidstudio,arduino,raspberrypi,opencv,sklearn,pytorch,tensorflow,ros,bash,github,linux,windows,md,latex,ps,pr,ae)
+<!-- ![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,matlab,vscode,visualstudio,anaconda,vim,cmake,androidstudio,arduino,raspberrypi,opencv,sklearn,pytorch,tensorflow,ros,bash,github,linux,windows,md,latex,ps,pr,ae) -->
 
-💝 **Research and Engineering Project**:
-* [Sign Language Translation System](https://github.com/Wendy-Ying/Sign-Language-Translation-System-Based-on-Visual-Approach)
-* [Fully Automated Robot Cooperation System](https://github.com/Wendy-Ying/Fully-Automated-Highly-Compatible-Detection-Combat-Investigated-UAV)
+📅 **News**:
+
+Seeking for PhD opportunities in 2026 Fall!
 
 🎁 **Course Project**:
 * 2023 Fall
