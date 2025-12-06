@@ -28,7 +28,9 @@
 
 📅 **News**:
 
-Seeking for PhD opportunities in 2026 Fall!
+💞️ Seeking for PhD opportunities in 2026 Fall!
+
+🎉 Our paper MfNeuPAN is accepted by IEEE ROBIO 2025.
 
 🎁 **Course Project**:
 * 2023 Fall
