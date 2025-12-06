@@ -53,8 +53,8 @@
   * EE348 Modern Sensing Technology: [pre](https://github.com/Wendy-Ying/Modern-Sensing-Technology)
   * EE368 Robotic and Motion Control: [lab](https://github.com/Wendy-Ying/Robotic-Motion-and-Control), [project](https://github.com/Wendy-Ying/rrt_planner)
 * 2025 Fall
-  * EE211 Robotic Perception and Intelligence: [lab](https://github.com/Wendy-Ying/Robotic-Perception-and-Intelligence), project
-  * CS303 Artificial Intelligence: [lab](https://github.com/Wendy-Ying/Artifical-Intelligence), [project1](https://github.com/Wendy-Ying/Reversed-Reversi), project2
+  * EE211 Robotic Perception and Intelligence: [lab](https://github.com/Wendy-Ying/Robotic-Perception-and-Intelligence), [project](https://github.com/Wendy-Ying/Autonomous-Navigation-Grasping-Visual-Detection-System)
+  * CS303 Artificial Intelligence: [lab](https://github.com/Wendy-Ying/Artifical-Intelligence), [project1](https://github.com/Wendy-Ying/Reversed-Reversi), [project2](https://github.com/Wendy-Ying/Adult-Census-Income-Prediction)
 
 😄 Course Notes:
 Many well organized notes [here](https://github.com/Wendy-Ying/Lecture-Notes).
