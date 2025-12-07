@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 🏫 I’m currently a senior student in [SUSTech](https://www.sustech.edu.cn/), [RCVLab](https://rcvlab.eee.sustech.edu.cn/).
 
@@ -6,9 +6,9 @@
 
 👀 My current research interest is learning-based motion planning.
 
-📫 Reach me: yingyw2022@mail.sustech.edu.cn
+📫 Reach me: yingyw2022@mail.sustech.edu.cn, wendyyingyw@gmail.com
 
-⚡ Personal Page: [Wendy-Ying](https://Wendy-Ying.github.io)
+⚡ Personal Page: [Wendy-Ying.github.io](https://Wendy-Ying.github.io)
 
 🚀 Google Scholar: [Yiwen Ying](https://scholar.google.com/citations?user=amrm3eEAAAAJ)
 
@@ -26,13 +26,13 @@
 
 <!-- ![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,matlab,vscode,visualstudio,anaconda,vim,cmake,androidstudio,arduino,raspberrypi,opencv,sklearn,pytorch,tensorflow,ros,bash,github,linux,windows,md,latex,ps,pr,ae) -->
 
-📅 **News**:
+## 📅 **News**:
 
 💞️ Seeking for PhD opportunities in 2026 Fall!
 
 🎉 Our paper MfNeuPAN is accepted by IEEE ROBIO 2025.
 
-🎁 **Course Project**:
+## 🎁 **Course Project**:
 * 2023 Fall
   * EE201 Analog Circuits: [lab](https://github.com/Wendy-Ying/Analog-Circuits-Laboratory), [project](https://github.com/Wendy-Ying/Electronic-Ocarina)
   * EE205 Signals and Systems: [lab](https://github.com/Wendy-Ying/Signals-and-Systems-Lab), [project](https://github.com/Wendy-Ying/Speech-Synthesis-And-Perception-With-Envelope-Cue)
