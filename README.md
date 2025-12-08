@@ -21,7 +21,7 @@
 --->
 
 ![Github_States](https://github-readme-stats-rosy-kappa.vercel.app/api?username=Wendy-Ying) 
-![Top Langs](https://github-readme-stats-rosy-kappa.vercel.app/api/top-langs/?username=Wendy-Ying&layout=compact&size_weight=0.1&count_weight=1&langs_count=10&hide=assembly,makefile,cmake,html,tcl)
+![Top Langs](https://github-readme-stats-rosy-kappa.vercel.app/api/top-langs/?username=Wendy-Ying&layout=compact&size_weight=0.1&count_weight=1&langs_count=8&hide=assembly,makefile,cmake,html,tcl)
 ![commits](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wendy-ying&theme=github)
 
 <!-- ![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,matlab,vscode,visualstudio,anaconda,vim,cmake,androidstudio,arduino,raspberrypi,opencv,sklearn,pytorch,tensorflow,ros,bash,github,linux,windows,md,latex,ps,pr,ae) -->
