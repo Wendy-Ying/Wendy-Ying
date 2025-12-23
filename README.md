@@ -58,3 +58,5 @@
 
 😄 Course Notes:
 Many well organized notes [here](https://github.com/Wendy-Ying/Lecture-Notes).
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wendy-Ying&repo=github-readme-stats)](https://github.com/Wendy-Ying/github-readme-stats)
