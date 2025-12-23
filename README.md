@@ -12,14 +12,6 @@
 
 🚀 Google Scholar: [Yiwen Ying](https://scholar.google.com/citations?user=amrm3eEAAAAJ)
 
-<!---
-- ✨
-- 💞️
-- ⚡
-- 😄
-- 💝
---->
-
 ![Github_States](https://github-readme-stats-rosy-kappa.vercel.app/api?username=Wendy-Ying) 
 ![Top Langs](https://github-readme-stats-rosy-kappa.vercel.app/api/top-langs/?username=Wendy-Ying&layout=compact&size_weight=0.1&count_weight=1&langs_count=8&hide=assembly,makefile,cmake,html,tcl)
 ![commits](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wendy-ying&theme=github)
@@ -58,5 +50,3 @@
 
 😄 Course Notes:
 Many well organized notes [here](https://github.com/Wendy-Ying/Lecture-Notes).
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wendy-Ying&repo=github-readme-stats)](https://github.com/Wendy-Ying/github-readme-stats)
