@@ -15,5 +15,5 @@
 ---
 
 ![Github_States](https://github-readme-stats-rosy-kappa.vercel.app/api?username=Wendy-Ying&hide_border=true) 
-![Top Langs](https://github-readme-stats-rosy-kappa.vercel.app/api/top-langs/?username=Wendy-Ying&layout=compact&hide_border=true&size_weight=0.1&count_weight=1&langs_count=8&hide=assembly,makefile,cmake,html,tcl)
+![Top Langs](https://github-readme-stats-rosy-kappa.vercel.app/api/top-langs/?username=Wendy-Ying&layout=compact&hide_border=true&size_weight=0.1&count_weight=0.8&langs_count=8&hide=assembly,makefile,cmake,html,tcl,tex)
 ![commits](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wendy-ying&theme=transparent&hide_border=true)
