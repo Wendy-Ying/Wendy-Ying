@@ -8,7 +8,7 @@
 - 🚀 Google Scholar: [Yiwen Ying](https://scholar.google.com/citations?user=amrm3eEAAAAJ)
 
 📅 News:
-- 💞️ Seeking for PhD opportunities in 2026 Fall!
+- 💞️ Seeking for PhD opportunities!
 - 🎉 Our paper [MfNeuPAN](https://arxiv.org/abs/2511.17013) is accepted by IEEE ROBIO 2025.
 - 🎁 All my work in SUSTech can be found in this [catalog](https://github.com/Wendy-Ying/SUSTech-Homeworks-and-Projects).
 
