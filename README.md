@@ -10,6 +10,7 @@
 ### 📅 News:
 - 🎉 Our paper [MfNeuPAN](https://arxiv.org/abs/2511.17013) is accepted by IEEE ROBIO 2025.
 - 🎁 All my work in SUSTech can be found in this [catalog](https://github.com/Wendy-Ying/SUSTech-Homeworks-and-Projects).
+- 💞️ All my notes in SUSTech can be found in this [repository](https://github.com/Wendy-Ying/SUSTech-Lecture-Notes).
 
 ---
 
